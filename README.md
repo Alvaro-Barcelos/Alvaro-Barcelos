@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Álvaro Barcelos ✋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alvaro-barcelos-7352b0236)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-barcelos-7352b0236/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alvarobpa/)
 
 ![Alvaro GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaro-barcelos&show_icons=true&theme=onedark)
