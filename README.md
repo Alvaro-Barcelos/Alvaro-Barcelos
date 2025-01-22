@@ -3,9 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-barcelos-7352b0236/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alvarobpa/)
 
-![Alvaro GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaro-barcelos&show_icons=true&theme=onedark)
-
-### Tecnologias que eu tenho conhecimento
+### Tecnologias
 
 <div style="display: inline-block">
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
