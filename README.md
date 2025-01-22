@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Álvaro Barcelos ✋
 
+Sou técnico em desenvolvimento e atualmente cursando Engenharia de Software!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-barcelos-7352b0236/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alvarobpa/)
 
@@ -16,7 +17,5 @@
 </div> <br/>
 
 
-
-Apaixonado por tecnologia e atualmente graduando em Engenharia de software e cursando o Técnico em Desenvolvimento de Sistemas.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-barcelos&layout=compact)
